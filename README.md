@@ -1,6 +1,6 @@
 # quantumcompiler
 
-<h1>Hi, I'm David Briceno</h1>
+<h2>Hi, I'm David Briceno</h2>
 
 <p>
 I'm currently studying computer science and physics as a double major. Most of my work
